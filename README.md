@@ -14,7 +14,7 @@
 ### Outline
 * Problem to Solve: Determining trends in home prices in the Mecklenburg area and predicting home prices based on historical data. 
 
-## We plan to use the following:
+### We plan to use the following:
 * Scikit_Learn
 * Python Pandas
 * Python Matplotlib
