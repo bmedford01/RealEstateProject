@@ -23,7 +23,6 @@
 * Median Days to Close by timeframe
 * Percent of total active listings with price drops
 * Percent of homes sold above list
-* 
 * Demonstrate total active listings against other factors?
 
 ### We plan to use the following:
