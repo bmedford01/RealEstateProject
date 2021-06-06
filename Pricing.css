@@ -340,6 +340,41 @@
   margin: -464px 0 0 auto;
 }
 
+.u-section-3 .u-container-layout-7 {
+  padding: 30px 50px;
+}
+
+.u-section-3 .u-group-4 {
+  width: 476px;
+  min-height: 464px;
+  background-image: none;
+  margin: 0 auto 0 0;
+}
+
+.u-section-3 .u-container-layout-8 {
+  padding: 40px;
+}
+
+.u-section-3 .u-text-7 {
+  text-transform: uppercase;
+  font-weight: 700;
+  font-size: 1.25rem;
+  letter-spacing: 4px;
+  margin: 0;
+}
+
+.u-section-3 .u-text-8 {
+  font-size: 1.25rem;
+  margin: 20px 0 0;
+}
+
+.u-section-3 .u-image-4 {
+  width: 531px;
+  height: 464px;
+  object-position: 3.99% 82.81%;
+  margin: -464px -6px 0 auto;
+}
+
 .u-section-3 .u-carousel-control-1 {
   width: 50px;
   height: 50px;
@@ -427,6 +462,27 @@
   }
 
   .u-section-3 .u-image-3 {
+    width: 391px;
+    height: 440px;
+    object-position: 13.57% 50%;
+    margin-top: -440px;
+  }
+
+  .u-section-3 .u-container-layout-7 {
+    padding-bottom: 25px;
+  }
+
+  .u-section-3 .u-group-4 {
+    width: 405px;
+    min-height: 440px;
+    margin-right: 435px;
+  }
+
+  .u-section-3 .u-text-7 {
+    width: auto;
+  }
+
+  .u-section-3 .u-image-4 {
     width: 391px;
     height: 440px;
     object-position: 13.57% 50%;
@@ -536,6 +592,35 @@
     margin-left: initial;
     width: auto;
   }
+
+  .u-section-3 .u-container-layout-7 {
+    padding-left: 55px;
+    padding-right: 55px;
+  }
+
+  .u-section-3 .u-group-4 {
+    min-height: 394px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-container-layout-8 {
+    padding: 22px 30px;
+  }
+
+  .u-section-3 .u-text-8 {
+    font-size: 1.125rem;
+    width: auto;
+  }
+
+  .u-section-3 .u-image-4 {
+    height: 375px;
+    margin-top: 30px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
 }
 
 @media (max-width: 767px) {
@@ -591,6 +676,23 @@
     margin-right: initial;
     margin-left: initial;
   }
+
+  .u-section-3 .u-container-layout-7 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-8 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-3 .u-image-4 {
+    margin-top: 20px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
 }
 
 @media (max-width: 575px) {
@@ -605,6 +707,11 @@
   }
 
   .u-section-3 .u-container-layout-6 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-3 .u-container-layout-8 {
     padding-left: 10px;
     padding-right: 10px;
   }
