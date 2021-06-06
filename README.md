@@ -15,7 +15,7 @@
 * Problem to Solve: Determining trends in home prices in the Mecklenburg area and predicting home prices based on historical data. 
 
 ### Visuals
-* Line graphy with median home price by month 
+* Line graph with median home price by month 
 * Gauge for lower to upper ranges of home prices
 * Drop down to select a year and see median home prices for each week for that year
 * Number of homes sold by month 
