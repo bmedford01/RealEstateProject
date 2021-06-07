@@ -429,4 +429,9 @@
     width: 340px;
     height: 159px;
   }
+
+  .nav {   
+    position: fixed;
+    top: 0px;
+ }
 }
