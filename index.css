@@ -430,8 +430,8 @@
     height: 159px;
   }
 
-  .u-nav {   
-    position: fixed;
+  .u-nav-item {   
+    position: sticky;
     top: 0px;
  }
 }
