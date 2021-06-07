@@ -1,41 +1,41 @@
 .u-section-1 {
-  min-height: 1197px;
   background-image: none;
+  min-height: 864px;
 }
 
 .u-section-1 .u-shape-1 {
   width: calc(((100% - 1140px) / 2) + 507px);
-  height: 676px;
+  height: 444px;
   background-image: none;
   margin: 260px 0 0 auto;
 }
 
 .u-section-1 .u-shape-2 {
   width: 603px;
-  height: 597px;
+  height: 407px;
   background-image: none;
-  margin: -722px auto 0 calc(((100% - 1140px) / 2));
+  margin: -490px auto 0 calc(((100% - 1140px) / 2));
 }
 
 .u-section-1 .u-shape-3 {
   width: 716px;
-  height: 797px;
+  height: 428px;
   background-image: none;
-  margin: -811px calc(((100% - 1140px) / 2)) 0 auto;
+  margin: -621px calc(((100% - 1140px) / 2)) 0 auto;
 }
 
 .u-section-1 .u-image-1 {
-  width: 811px;
-  height: 756px;
+  width: 533px;
+  height: 485px;
   object-position: 50% 50%;
   box-shadow: 0 0 25px 0 rgba(0,0,0,0.3);
-  margin: -411px auto 0 calc(((100% - 1140px) / 2) + 96px);
+  margin: -102px auto 0 calc(((100% - 1140px) / 2) + 101px);
 }
 
 .u-section-1 .u-group-1 {
   min-height: 386px;
   width: 614px;
-  margin: -1142px calc(((100% - 1140px) / 2) + 51px) 60px auto;
+  margin: -811px calc(((100% - 1140px) / 2) + 51px) 60px auto;
 }
 
 .u-section-1 .u-container-layout-1 {
@@ -82,7 +82,7 @@
 
   .u-section-1 .u-image-1 {
     width: 732px;
-    margin-left: calc(((100% - 940px) / 2) + 96px);
+    margin-left: calc(((100% - 940px) / 2) + 101px);
   }
 
   .u-section-1 .u-group-1 {
@@ -115,7 +115,6 @@
 
   .u-section-1 .u-image-1 {
     width: 606px;
-    height: 671px;
     margin-top: -449px;
     margin-left: calc(((100% - 720px) / 2) + 46px);
   }
@@ -429,7 +428,7 @@
 
 .u-section-3 .u-image-2 {
   min-height: 567px;
-  background-image: url("images/fakegraph.png");
+  background-image: url("images/fakegraph.png?rand=54a0");
 }
 
 .u-section-3 .u-container-layout-3 {
@@ -652,7 +651,6 @@
   min-height: 276px;
   background-image: none;
   box-shadow: 10px 11px 40px 0 rgba(41,46,51,0.25);
-  height: auto;
   margin: -60px 0 0 -147px;
 }
 
@@ -713,7 +711,6 @@
   .u-section-4 .u-group-1 {
     width: 598px;
     margin-left: -204px;
-    height: auto;
   }
 
   .u-section-4 .u-text-3 {
