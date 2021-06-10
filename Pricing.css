@@ -234,7 +234,7 @@
   width: 56px;
   height: 22px;
   top: auto;
-  bottom: 22px;
+  bottom: 8px;
 }
 
 .u-section-3 .u-container-layout-1 {
@@ -242,8 +242,8 @@
 }
 
 .u-section-3 .u-group-1 {
-  width: 476px;
-  min-height: 464px;
+  width: 1035px;
+  min-height: 250px;
   background-image: none;
   margin: 0 auto 0 0;
 }

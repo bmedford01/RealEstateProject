@@ -276,6 +276,7 @@
 
 .u-section-2 .u-container-layout-3 {
   padding: 30px;
+  
 }
 
 .u-section-2 .u-image-1 {
@@ -399,11 +400,6 @@
   margin: 60px 0;
 }
 
-.u-section-3 .u-image-1 {
-  min-height: 560px;
-  background-image: url("images/fakegraph.png");
-  background-position: 50% 50%;
-}
 
 .u-section-3 .u-container-layout-1 {
   padding: 30px;
@@ -420,10 +416,12 @@
 .u-section-3 .u-text-1 {
   font-weight: 700;
   margin: 0;
+  color:white;
 }
 
 .u-section-3 .u-text-2 {
   margin: 20px 0 0;
+  color:white;
 }
 
 .u-section-3 .u-image-2 {
