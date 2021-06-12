@@ -1,26 +1,24 @@
 # RealEstateProject
 
-## Project Proposal
-
 ### Team Members
 * Brad Medford
 * Chase Webb
 * Kasey Wilson
 * Sarah Klein
 
-### Datasets 
+### Datasets:
 * Redfin dataset for real estate since 2017
 https://www.redfin.com/news/data-center/
 * Realtor.com historical dataset dating back to 2016 including zip codes
 https://www.realtor.com/research/data/
 
 
-### Questions to Answer
+### Questions to Answer:
 * What trends exist in residential real estate prices in the Mecklenburg area?
 * What can we expect future home prices to be based on historical data?
 
 
-### Visuals
+### Visuals:
 * Average List Price over Time by Zip Code
 * Aggregate List Price vs. Sale Price Over Time 
 * Market Hotness (Supply vs. Demand) by Zip Code by Year
