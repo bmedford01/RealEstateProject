@@ -15,8 +15,10 @@ https://www.redfin.com/news/data-center/
 https://www.realtor.com/research/data/
 
 
-### Outline
-* Problem to Solve: Determining trends in home prices in the Mecklenburg area and predicting home prices based on historical data. 
+### Questions to Answer
+* What trends exist in residential real estate prices in the Mecklenburg area?
+* What can we expect future home prices to be based on historical data?
+
 
 ### Visuals
 * Line graph with median home price by month 
@@ -29,10 +31,18 @@ https://www.realtor.com/research/data/
 * Percent of homes sold above list
 * Demonstrate total active listings against other factors?
 
-### We plan to use the following:
+### Technology Utilized:
 * Scikit_Learn
 * Python Pandas
 * Python Matplotlib
 * HTML/CSS/Bootstrap
-* MongoDB Database
-* Heroku 
+* GitHubPages 
+
+### Conclusions:
+* Charlotte real estate as a whole is growing rapidly
+* Less established areas are gaining popularity 
+* Slower growth in expensive areas 
+* Summer months are the most popular for purchasing a home
+* Home sales were down by about 50% during 2020 due to lack of inventory
+
+
