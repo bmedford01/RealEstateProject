@@ -21,15 +21,13 @@ https://www.realtor.com/research/data/
 
 
 ### Visuals
-* Line graph with median home price by month 
-* Gauge for lower to upper ranges of home prices
-* Drop down to select a year and see median home prices for each week for that year
-* Number of homes sold by month 
-* Trend line for age of inventory 
-* Median Days to Close by timeframe
-* Percent of total active listings with price drops
-* Percent of homes sold above list
-* Demonstrate total active listings against other factors?
+* Average List Price over Time by Zip Code
+* Aggregate List Price vs. Sale Price Over Time 
+* Market Hotness (Supply vs. Demand) by Zip Code by Year
+* Projected Home Prices through 2070
+* Home Sales by Year 
+* Sales by Month 
+
 
 ### Technology Utilized:
 * Scikit_Learn
