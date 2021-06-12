@@ -8,7 +8,7 @@
 * Kasey Wilson
 * Sarah Klein
 
-### Dataset 
+### Datasets 
 * Redfin dataset for real estate since 2017
 https://www.redfin.com/news/data-center/
 * Realtor.com historical dataset dating back to 2016 including zip codes
