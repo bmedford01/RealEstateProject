@@ -1,6 +1,6 @@
 # RealEstateProject
 
-### Team Members
+### Team Members:
 * Brad Medford
 * Chase Webb
 * Kasey Wilson
